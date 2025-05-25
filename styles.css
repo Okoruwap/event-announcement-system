@@ -24,8 +24,8 @@ body {
 
 /* Header */
 header {
-  background-color: #c4d6e2; /* Pastel blue */
-  color: #3c4f7c; /* Darker blue for contrast */
+  background-color: #E5C1BD; /* Teal Rose */
+  color: #373737; /* Darker blue for contrast */
   text-align: center;
   padding: 20px;
   border-radius: 8px;
@@ -43,8 +43,8 @@ header p {
 }
 
 header button {
-  background-color: #d0e5f0; /* Light pastel blue */
-  color: #3c4f7c;
+  background-color: #875053; /* Rose Taupe */
+  color: white;
   padding: 10px 20px;
   border: none;
   border-radius: 5px;
@@ -52,8 +52,9 @@ header button {
   transition: background-color 0.3s ease;
 }
 
-header button:hover {
-  background-color: #adc9e5; /* Slightly darker pastel blue */
+header button:hover,
+header button:focus {
+  background-color: #373737;
 }
 
 /* Event List Section */
@@ -82,8 +83,8 @@ header button:hover {
 }
 
 #events-container button {
-  background-color: #d1e7f6; /* Soft pastel blue */
-  color: #3c4f7c;
+  background-color: #875053; /* Rose Taupe */
+  color: white;
   padding: 10px 20px;
   border: none;
   border-radius: 5px;
@@ -92,8 +93,9 @@ header button:hover {
   transition: background-color 0.3s ease;
 }
 
-#events-container button:hover {
-  background-color: #adc9e5;
+#events-container button:hover,
+#events-container button:focus {
+  background-color: #373737;
 }
 
 /* Create Event Form */
@@ -142,8 +144,8 @@ header button:hover {
 }
 
 #create-event-form button {
-  background-color: #c4d6e2; /* Pastel blue */
-  color: #3c4f7c;
+ background-color: #875053; /* Rose Taupe */
+  color: white;
   padding: 10px 20px;
   border: none;
   border-radius: 5px;
@@ -152,8 +154,9 @@ header button:hover {
   transition: background-color 0.3s ease;
 }
 
-#create-event-form button:hover {
-  background-color: #adc9e5;
+#create-event-form button:hover,
+#create-event-form button:focus {
+  background-color: #373737;
 }
 
 /* Footer */

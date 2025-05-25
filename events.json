@@ -1,12 +1,12 @@
 [
     {
-      "title": "AWS Workshop",
-      "date": "2024-11-20",
-      "description": "Join us for a hands-on AWS workshop covering S3, CloudFront, and SNS!"
+      "title": "AWS Hackathon",
+      "date": "01-15-2025",
+      "description": "Compete for a grand price on the AWS Hackathon Final!"
     },
     {
       "title": "Web Dev Bootcamp",
-      "date": "2024-12-05",
+      "date": "05-24-2025",
       "description": "A beginner-friendly bootcamp to get you started with web development."
     }
   ]
